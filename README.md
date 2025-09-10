@@ -1,13 +1,64 @@
-- Hi, I’m Muktar Abdulkader!
+# 👋 Hi, I'm Muktar Abdulkader
 
-👀 I’m interested in exploring cutting-edge technology, software development, and creating meaningful solutions that impact lives positively.
-🌱 I’m currently learning advanced web development (JavaScript, CSS frameworks) and diving deeper into software engineering concepts.
-💞️ I’m looking to collaborate on exciting tech projects, especially those involving innovative web applications, backend systems, or community-driven platforms.
-📫 How to reach me: You can connect with me through [ muktarabdukader35@gmail.com].
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy coding challenges and learning through hands-on projects—it’s like solving puzzles for me!
+**Software Engineer | Full Stack Developer | Tech Enthusiast**
 
-<!---
-muktarbdulkader/muktarbdulkader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+I'm a passionate software engineer who loves building impactful applications and exploring new technologies. I thrive on turning ideas into real-world solutions, collaborating with others, and constantly learning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, TypeScript
+- **Frameworks/Libraries:** React, Node.js, Express, MERN Stack
+- **Tools:** Git, GitHub, Docker, VS Code
+- **Databases:** MongoDB, MySQL
+
+---
+
+## 🌟 Featured Projects
+
+- [**English Learning Platform**](https://github.com/muktarbdulkader/Engllish-learning-platform-frontend-website)  
+  A web platform to help users improve their English skills through interactive exercises and engaging content.
+
+- [**Group Recommender System (AI-Based, MERN Stack)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-)  
+  An intelligent system leveraging AI and the MERN stack for group-based recommendations.
+
+- [**Message**](https://github.com/muktarbdulkader/message)  
+  A messaging platform focused on real-time communication and a smooth user experience.
+
+- [**Group Web Information**](https://github.com/muktarbdulkader/group-web-information)  
+  Collaborative web platform for managing group information.
+
+- [**CodeAP To-Do List**](https://github.com/muktarbdulkader/codeAP_to-do-list)  
+  A productivity app to organize tasks efficiently and boost productivity.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI/ML concepts
+- Cloud technologies
+- Modern JavaScript frameworks
+
+---
+
+## ⚡ Fun Facts
+
+- I enjoy collaborating on open-source projects.
+- Always eager to learn and share knowledge.
+- I believe in the power of teamwork and innovation.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muktar-abdulkader-3334b1340)
+
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect!
