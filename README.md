@@ -12,10 +12,10 @@ I'm a passionate software engineer who loves building impactful applications and
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, TypeScript
+- **Languages:** JavaScript, Python
 - **Frameworks/Libraries:** React, Node.js, Express, MERN Stack
-- **Tools:** Git, GitHub, Docker, VS Code
-- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Databases:** , MySQL
 
 ---
 
@@ -28,7 +28,7 @@ I'm a passionate software engineer who loves building impactful applications and
   An intelligent system leveraging AI and the MERN stack for group-based recommendations.
 
 - [**Message**](https://github.com/muktarbdulkader/message)  
-  A messaging platform focused on real-time communication and a smooth user experience.
+  A messaging platform focused on used for the love desigh and a smooth user experience.
 
 - [**Group Web Information**](https://github.com/muktarbdulkader/group-web-information)  
   Collaborative web platform for managing group information.
