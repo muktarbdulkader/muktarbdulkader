@@ -26,6 +26,7 @@ I'm a passionate software engineer who loves building impactful applications and
 
 - [**Group Recommender System (AI-Based, MERN Stack)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-)  
   An intelligent system leveraging AI and the MERN stack for group-based recommendations.
+  -[**campus-connect**](https://letasconnect.netlify.app/) 
 
 - [**Message**](https://github.com/muktarbdulkader/message)  
   A messaging platform focused on used for the love desigh and a smooth user experience.
