@@ -26,8 +26,9 @@ I'm a passionate software engineer who loves building impactful applications and
 
 - [**Group Recommender System (AI-Based, MERN Stack)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-)  
   An intelligent system leveraging AI and the MERN stack for group-based recommendations.
-  
- -[**campus-connect**](https://letasconnect.netlify.app/) Campus Connect: A student platform to create profiles, join events, form study groups, connect with peers, track achievements, and enhance campus engagement, powered by React and Supabase.
+
+ - [**Campus-connect**](https://letasconnect.netlify.app/)
+    A student platform to create profiles, join events, form study groups, connect with peers, track      achievements, and enhance campus engagement, powered by React and        Supabase.
 
 - [**Message**](https://github.com/muktarbdulkader/message)  
   A messaging platform focused on used for the love desigh and a smooth user experience.
