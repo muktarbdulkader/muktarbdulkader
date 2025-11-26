@@ -74,7 +74,7 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muktar-abdulkader-3334b1340)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox-browser)](https://muktarabdulkader.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-MuktarAbdulkader%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:MuktarAbdulkade35r@gmail.com)
+[![Email](https://img.shields.io/badge/Email-MuktarAbdulkader35gmail.com-red?style=for-the-badge&logo=gmail)](mailto:MuktarAbdulkade35r@gmail.com)
 
 ---
 
