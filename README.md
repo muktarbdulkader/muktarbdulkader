@@ -7,6 +7,7 @@
 ## 🚀 About Me
 
 I'm a passionate software engineer who loves building impactful applications and exploring new technologies. I thrive on turning ideas into real-world solutions, collaborating with others, and constantly learning.
+you can look about me in portfolio  [**My portfolio **](https://muktarabdulkader.netlify.app/ )
 
 ---
 
