@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Muktar Abdulkader
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/85802435?v=4" width="120" alt="Muktar's avatar" />
-</p>
+
 
 **Software Engineer | Full Stack Developer | Tech Enthusiast**
 
@@ -67,16 +65,10 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 - 👨‍💻 Never stop learning & sharing.
 - 🤝 Teamwork = dreamwork!
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muktarbdulkader&show_icons=true&theme=radical" alt="Muktar's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktarbdulkader&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
 
----
+
 
 ## 📫 Let's Connect
 
