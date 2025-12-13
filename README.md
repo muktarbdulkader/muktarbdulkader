@@ -4,6 +4,12 @@
   <img src="https://avatars.githubusercontent.com/u/85802435?v=4" width="120" alt="Muktar's avatar" />
 </p>
 
+<!-- Profile views and visitor count badges -->
+<p align="center">
+  [![Profile Views](https://komarev.com/ghpvc/?username=muktarbdulkader&color=0e75b6)](https://github.com/muktarbdulkader)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" alt="Visitor Badge" />
+</p>
+
 **Software Engineer | Full Stack Developer | Tech Enthusiast**
 
 ---
