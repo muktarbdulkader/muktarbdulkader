@@ -71,15 +71,6 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muktarbdulkader&show_icons=true&theme=radical" alt="Muktar's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktarbdulkader&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muktar-abdulkader-3334b1340)
