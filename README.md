@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Muktar Abdulkader
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/85802435?v=4" width="120" alt="Muktar's avatar" />
-</p>
 
 <!-- Profile views and visitor count badges -->
-<p align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=muktarbdulkader&color=0e75b6)](https://github.com/muktarbdulkader)
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" alt="Visitor Badge" />
 </p>
 
@@ -18,7 +14,7 @@
 
 Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech. Whether it's through teamwork, creativity, or constant learning— I'm driven to build impactful solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-green?style=for-the-badge&logo=firefox-browser)](https://muktarabdulkader.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app//)
 
 ---
 
@@ -87,7 +83,7 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muktar-abdulkader-3334b1340)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox-browser)](https://muktarabdulkader.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app//)
 [![Email](https://img.shields.io/badge/Email-MuktarAbdulkader%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:MuktarAbdulkader@gmail.com)
 
 ---
