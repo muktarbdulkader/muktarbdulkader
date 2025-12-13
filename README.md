@@ -1,16 +1,36 @@
 # 👋 Hi, I'm Muktar Abdulkader
 
+<p align="right">
+  <!-- Language links (same-file anchors) -->
+  <a href="#english" style="margin-right:8px">🇬🇧 English</a>
+  <a href="#বাংলা">🇧🇩 বাংলা</a>
+</p>
 
+<p align="center">
+  <img src="https://github.com/muktarbdulkader.png" alt="Muktar Abdulkader" width="180" style="border-radius:50%">
+</p>
 
-**Software Engineer | Full Stack Developer | Tech Enthusiast**
+<p align="center">
+  <strong>Software Engineer | Full Stack Developer | Tech Enthusiast</strong>
+</p>
+
+<p align="center">
+  <!-- Visitor / profile view badges -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=muktarbdulkader&style=flat-square" />
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" />
+  <!-- GitHub stats (optional) -->
+  <br/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=muktarbdulkader&show_icons=true&locale=en" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktarbdulkader&layout=compact" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me <a name="english"></a>
 
 Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech. Whether it's through teamwork, creativity, or constant learning— I'm driven to build impactful solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app/)
 
 ---
 
@@ -31,50 +51,60 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 
 ## 🌟 Featured Projects
 
-- ✨ [**English Learning Platform**](https://github.com/muktarbdulkader/Engllish-learning-platform-frontend-website):  
+- ✨ [**English Learning Platform**](https://github.com/muktarbdulkader/Engllish-learning-platform-frontend-website)  
   _Boost your English with interactive exercises!_
 
-- 🤖 [**Group Recommender System (AI, MERN)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-):  
+- 🤖 [**Group Recommender System (AI, MERN)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-)  
   _AI-powered group recommendations—making teamwork smarter._
 
-- 🎓 [**Campus-connect**](https://letasconnect.netlify.app/):  
+- 🎓 [**Campus-connect**](https://letasconnect.netlify.app/)  
   _Find study buddies, join events, and celebrate campus life! (React + Supabase)_
 
-- 💬 [**Message**](https://github.com/muktarbdulkader/message):  
+- 💬 [**Message**](https://github.com/muktarbdulkader/message)  
   _Chat beautifully with a design-led messaging experience._
 
-- 👥 [**Group Web Information**](https://github.com/muktarbdulkader/group-web-information):  
+- 👥 [**Group Web Information**](https://github.com/muktarbdulkader/group-web-information)  
   _Organize and manage group data collaboratively._
 
-- ✅ [**CodeAP To-Do List**](https://github.com/muktarbdulkader/codeAP_to-do-list):  
+- ✅ [**CodeAP To-Do List**](https://github.com/muktarbdulkader/codeAP_to-do-list)  
   _Stay productive and organized with this smart to-do app._
 
 ---
 
 ## 🌱 Currently Unlocking:
 
-- Deep-diving into **AI & ML**
-- Exploring **Cloud technologies**
+- Deep-diving into **AI & ML**  
+- Exploring **Cloud technologies**  
 - Mastering **Modern JS frameworks**
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🏆 Love open-source collaboration.
-- 👨‍💻 Never stop learning & sharing.
+- 🏆 Love open-source collaboration.  
+- 👨‍💻 Never stop learning & sharing.  
 - 🤝 Teamwork = dreamwork!
 
-
-
-
-
+---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muktar-abdulkader-3334b1340)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox-browser)](https://muktar-dev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-MuktarAbdulkader35gmail.com-red?style=for-the-badge&logo=gmail)](mailto:MuktarAbdulkade35r@gmail.com)
+
+---
+
+## 🌍 International / বাংলা (Bangla) <a name="বাংলা"></a>
+
+### সংক্ষিপ্ত পরিচিতি
+আমি মুকতার, একজন সফটওয়্যার ইঞ্জিনিয়ার। আইডিয়া থেকে ব্যবহারযোগ্য প্রোডাক্ট তৈরি করাই আমার উত্সাহ। টিমওয়ার্ক, ক্রিয়েটিভিটি এবং কন্টিনিউয়াস লার্নিং—এই তিনটি বিষয় আমাকে চালিত করে।
+
+### যোগাযোগ
+- পোর্টফোলিও: https://muktar-dev.vercel.app/  
+- লিংকডইন: https://www.linkedin.com/in/muktar-abdulkader-3334b1340
+
+(আপনি চান আমি সম্পূর্ণ README-এর বাংলা অনুবাদ আলাদা ফাইলে যুক্ত করি — বললেই করব।)
 
 ---
 
