@@ -35,7 +35,7 @@ Hi! I'm Muktar, a passionate developer who transforms ideas into real-world tech
 
 ## 🌟 Featured Projects
 
-- ✨ [**English Learning Platform**](https://github.com/muktarbdulkader/Engllish-learning-platform-frontend-website):  
+- ✨ [**English Learning Platform**]((https://english-master-academy.vercel.app/#/)):  
   _Boost your English with interactive exercises!_
 
 - 🤖 [**Group Recommender System (AI, MERN)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-):  
