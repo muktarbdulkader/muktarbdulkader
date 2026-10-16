@@ -1,109 +1,100 @@
-# 👋 Hi, I'm Muktar Abdulkader
-
+<!-- Header banner -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" alt="Visitor Badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:34D399&height=220&section=header&text=Muktar%20Abdulkader&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Muktar Abdulkader banner" />
 </p>
 
-<h3 align="center">Software Engineer • Full-Stack Developer • Tech Enthusiast</h3>
-
 <p align="center">
-  <a href="https://muktar-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-34D399?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;Turning+ideas+into+real-world+products;Exploring+AI%2C+Cloud+%26+Full-Stack+architecture" alt="Typing animation" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://muktar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muktar-abdulkader-3334b1340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:MuktarAbdulkader@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" alt="Profile views" />
+</p>
+
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I’m a passionate software engineer who enjoys turning ideas into clean, scalable, and impactful digital experiences. I love solving real-world problems through technology, collaborating with teams, and continuously learning new skills across both frontend and backend development.
+I'm a software engineer who loves turning ideas into **clean, scalable, and impactful** digital products. I enjoy solving real-world problems, working in teams, and learning something new every day across both frontend and backend.
 
-My focus includes building modern web applications, improving user experiences, and exploring emerging technologies such as AI, cloud tools, and full-stack architecture.
-
----
-
-## 🧠 What I Do
-
-- Build responsive, user-friendly web applications
-- Design and develop backend APIs and services
-- Work with JavaScript, React, Node.js, and modern web tools
-- Create scalable solutions with strong code quality and maintainability
-- Learn and apply AI/ML, cloud, and modern engineering practices
+```js
+const muktar = {
+  role: "Software Engineer | Full-Stack Developer",
+  focus: ["Modern web apps", "Backend APIs", "Great user experience"],
+  currentlyExploring: ["AI & Machine Learning", "Cloud & Deployment", "Scalable architecture"],
+  motto: "Learn. Build. Ship. Repeat.",
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
+
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | JavaScript, React |
+| **Backend** | Node.js, Express, Python |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
 ## 🌟 Featured Projects
 
-- ✨ [**English Learning Platform**](https://english-master-academy.vercel.app/#/)  
-  _Interactive English learning built for growth and engagement._
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| 🎓 **English Learning Platform** | Interactive English learning built for growth and engagement. | [Live](https://english-master-academy.vercel.app/#/) |
+| 🤖 **Group Recommender System** | AI-powered MERN app that helps groups make smarter decisions together. | [Code](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-) |
+| 🏫 **Campus-Connect** | Community platform connecting students, events, and campus life. | [Live](https://letasconnect.netlify.app/) |
+| 💬 **Message** | A messaging app focused on usability and friendly design. | [Code](https://github.com/muktarbdulkader/message) |
+| 👥 **Group Web Information** | Organized platform for managing and collaborating on group info. | [Code](https://github.com/muktarbdulkader/group-web-information) |
+| ✅ **CodeAP To-Do List** | A simple, smart productivity planner to stay organized. | [Code](https://github.com/muktarbdulkader/codeAP_to-do-list) |
 
-- 🤖 [**Group Recommender System (AI, MERN)**](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-)  
-  _An AI-powered system to help groups make better recommendations and smarter decisions._
+---
 
-- 🎓 [**Campus-connect**](https://letasconnect.netlify.app/)  
-  _A community-focused platform to connect students, events, and campus life._
+## 📊 GitHub Stats
 
-- 💬 [**Message**](https://github.com/muktarbdulkader/message)  
-  _A messaging app experience focused on usability and friendly design._
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muktarbdulkader&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktarbdulkader&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-- 👥 [**Group Web Information**](https://github.com/muktarbdulkader/group-web-information)  
-  _An organized platform for managing and collaborating on group information._
-
-- ✅ [**CodeAP To-Do List**](https://github.com/muktarbdulkader/codeAP_to-do-list)  
-  _A smart and simple productivity planner for staying organized._
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muktarbdulkader&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Artificial Intelligence & Machine Learning
-- Cloud technologies and deployment workflows
-- Modern JavaScript frameworks and best practices
-- Building practical, scalable products with strong UX
-
----
+- 🧠 Artificial Intelligence & Machine Learning
+- ☁️ Cloud technologies and deployment workflows
+- ⚛️ Modern JavaScript frameworks and best practices
+- 🎯 Building practical, scalable products with strong UX
 
 ## ⚡ Core Values
 
-- 💡 Continuous learning
-- 🤝 Teamwork and collaboration
-- 🧩 Problem solving with clean thinking
-- 🚀 Turning ideas into real-world products
+💡 Continuous learning &nbsp;•&nbsp; 🤝 Teamwork &nbsp;•&nbsp; 🧩 Clear problem solving &nbsp;•&nbsp; 🚀 Shipping real products
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muktar-abdulkader-3334b1340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://muktar-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:MuktarAbdulkader@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+I'm open to collaborations, internships, and interesting projects. Feel free to reach out!
 
 <p align="center">
-  <strong>Thanks for visiting! Let’s build something amazing together.</strong>
+  <strong>Thanks for visiting! Let's build something amazing together. ✨</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,100:0F172A&height=100&section=footer" alt="Footer" />
 </p>
