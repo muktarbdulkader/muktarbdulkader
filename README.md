@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;Turning+ideas+into+real-world+products;Exploring+AI%2C+Cloud+%26+Full-Stack+architecture" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;Crafting+mobile+apps+with+Flutter;Turning+ideas+into+real-world+products;Exploring+AI%2C+Cloud+%26+Full-Stack+architecture" alt="Typing animation" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm a software engineer who loves turning ideas into **clean, scalable, and impa
 ```js
 const muktar = {
   role: "Software Engineer | Full-Stack Developer",
-  focus: ["Modern web apps", "Backend APIs", "Great user experience"],
+  focus: ["Modern web apps", "Mobile apps (Flutter)", "Backend APIs", "Great user experience"],
   currentlyExploring: ["AI & Machine Learning", "Cloud & Deployment", "Scalable architecture"],
   motto: "Learn. Build. Ship. Repeat.",
 };
@@ -36,13 +36,14 @@ const muktar = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mysql,flutter,dart,firebase,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 | Area | Tools |
 | :--- | :--- |
 | **Frontend** | JavaScript, React |
-| **Backend** | Node.js, Express, Python |
+| **Mobile** | Flutter, Dart |
+| **Backend** | Node.js, Express, Python, Firebase |
 | **Database** | MySQL |
 | **Tools** | Git, GitHub, VS Code |
 
@@ -55,6 +56,8 @@ const muktar = {
 | 🎓 **English Learning Platform** | Interactive English learning built for growth and engagement. | [Live](https://english-master-academy.vercel.app/#/) |
 | 🤖 **Group Recommender System** | AI-powered MERN app that helps groups make smarter decisions together. | [Code](https://github.com/muktarbdulkader/Group-Recommender-System-AI-Based-MERN-Stack-) |
 | 🏫 **Campus-Connect** | Community platform connecting students, events, and campus life. | [Live](https://letasconnect.netlify.app/) |
+| 🛡️ **FamilyGuard** | Mobile app for family safety, helping parents and guardians look after their children. | [Code](https://github.com/muktarbdulkader/FamilyGuard) |
+| 📱 **Flutter Study App** | Mobile study app built with Flutter and Firebase. | In progress |
 | 💬 **Message** | A messaging app focused on usability and friendly design. | [Code](https://github.com/muktarbdulkader/message) |
 | 👥 **Group Web Information** | Organized platform for managing and collaborating on group info. | [Code](https://github.com/muktarbdulkader/group-web-information) |
 | ✅ **CodeAP To-Do List** | A simple, smart productivity planner to stay organized. | [Code](https://github.com/muktarbdulkader/codeAP_to-do-list) |
@@ -79,6 +82,7 @@ const muktar = {
 - 🧠 Artificial Intelligence & Machine Learning
 - ☁️ Cloud technologies and deployment workflows
 - ⚛️ Modern JavaScript frameworks and best practices
+- 📱 Mobile app development with Flutter and Firebase
 - 🎯 Building practical, scalable products with strong UX
 
 ## ⚡ Core Values
