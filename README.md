@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://muktar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mukti-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muktar-abdulkader-3334b1340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:MuktarAbdulkader@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muktarbdulkader.muktarbdulkader" alt="Profile views" />
